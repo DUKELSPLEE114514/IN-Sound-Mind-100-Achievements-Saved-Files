@@ -1,0 +1,15 @@
+The Saved Files are located at存档位置：C:\Users\17538\AppData\LocalLow\We Create Stuff\In Sound Mind
+
+文件夹里有两个存档pills and records（药片和唱片的全收集）和Lucas’ Session Fragments（卢卡斯的电台）
+
+pills and records：如果没有解锁对应关卡的药片和唱片成就，那么进入对应的关卡和他们的公寓就可以获得
+
+Lucas’ Session Fragments：进入游戏后只剩最后一个电台没有收集，就在当前位置的不远处
+
+The Saved Files are located at C:\Users\17538\AppData\LocalLow\We Create Stuff\In Sound Mind
+
+There are two saved files in the folder:'pills and records' and'Lucas’ Session Fragments'
+
+pills and records:If the corresponding level's pills and record achievements are not unlocked, then entering the corresponding level and their apartment can earn rewards
+
+Lucas’ Session Fragments:After entering the game, there is only one radio station left that has not been collected, which is not far from the current location
